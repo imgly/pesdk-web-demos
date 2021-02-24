@@ -1,0 +1,218 @@
+{
+  "version": "3.8.0",
+  "meta": {
+    "platform": "html5",
+    "version": "5.0.1",
+    "createdAt": "2020-04-15T19:18:14.275Z"
+  },
+  "image": {
+    "width": 1735,
+    "height": 2669
+  },
+  "operations": [
+    {
+      "type": "sprite",
+      "options": {
+        "sprites": [
+          {
+            "type": "sticker",
+            "options": {
+              "position": {
+                "x": 0.5008476012883535,
+                "y": 0.3253366539571993
+              },
+              "dimensions": {
+                "x": 0.876463823197593,
+                "y": 0.8932446546666871
+              },
+              "rotation": 0,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "identifier": "imgly_sticker_shapes_badge_32",
+              "alpha": 1,
+              "tintColor": {
+                "rgba": [1, 1, 1, 1]
+              },
+              "tintMode": "solid"
+            }
+          },
+          {
+            "type": "sticker",
+            "options": {
+              "position": {
+                "x": 0.5008476012883535,
+                "y": 0.3264386309038417
+              },
+              "dimensions": {
+                "x": 0.7571326787978122,
+                "y": 0.7716287886729436
+              },
+              "rotation": 0,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "identifier": "imgly_sticker_shapes_badge_32",
+              "alpha": 1,
+              "tintColor": {
+                "rgba": [
+                  0.9568627450980393,
+                  0.25098039215686274,
+                  0.25098039215686274,
+                  1
+                ]
+              },
+              "tintMode": "solid"
+            }
+          },
+          {
+            "type": "sticker",
+            "options": {
+              "position": {
+                "x": -0.24127441562600102,
+                "y": 0.7102327130427544
+              },
+              "dimensions": {
+                "x": 0.29779058597502406,
+                "y": 0.29779058597502417
+              },
+              "rotation": 0,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "identifier": "imgly_sticker_shapes_badge_11",
+              "alpha": 1,
+              "tintColor": {
+                "rgba": [1, 1, 1, 1]
+              },
+              "tintMode": "solid"
+            }
+          },
+          {
+            "type": "sticker",
+            "options": {
+              "position": {
+                "x": 1.0839972876758772,
+                "y": 0.8675093117051992
+              },
+              "dimensions": {
+                "x": 0.5891770733269293,
+                "y": 0.5891770733269291
+              },
+              "rotation": -0.3692140538540719,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "identifier": "imgly_sticker_shapes_badge_01",
+              "alpha": 1,
+              "tintColor": {
+                "rgba": [
+                  0.9568627450980393,
+                  0.22745098039215686,
+                  0.22745098039215686,
+                  1
+                ]
+              },
+              "tintMode": "solid"
+            }
+          },
+          {
+            "type": "text",
+            "options": {
+              "position": {
+                "x": 0.49745719613493805,
+                "y": 0.40247504022215874
+              },
+              "rotation": 0,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "fontIdentifier": "imgly_font_gagalin_regular",
+              "fontSize": 0.1,
+              "maxWidth": 0.67084844241644,
+              "text": "AND BURGER",
+              "lineHeight": 1,
+              "color": {
+                "rgba": [1, 1, 1, 1]
+              },
+              "backgroundColor": {
+                "rgba": [0, 0, 0, 0]
+              },
+              "alignment": "center"
+            }
+          },
+          {
+            "type": "text",
+            "options": {
+              "position": {
+                "x": 1.0958637057128324,
+                "y": 0.31652083838406114
+              },
+              "rotation": -6.283185307179586,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "fontIdentifier": "imgly_font_gagalin_regular",
+              "fontSize": 0.2512968299711816,
+              "maxWidth": 1.6929071967894163,
+              "text": "BEEF",
+              "lineHeight": 1,
+              "color": {
+                "rgba": [1, 1, 1, 1]
+              },
+              "backgroundColor": {
+                "rgba": [0, 0, 0, 0]
+              },
+              "alignment": "left"
+            }
+          },
+          {
+            "type": "text",
+            "options": {
+              "position": {
+                "x": 1.0772164773690454,
+                "y": 0.7815551098671017
+              },
+              "rotation": -0.372000686095885,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "fontIdentifier": "imgly_font_trash_hand",
+              "fontSize": 0.09337175792507205,
+              "maxWidth": 0.599186233294191,
+              "text": "BRAND \nNEW +\nTASTY",
+              "lineHeight": 1,
+              "color": {
+                "rgba": [1, 1, 1, 1]
+              },
+              "backgroundColor": {
+                "rgba": [0, 0, 0, 0]
+              },
+              "alignment": "left"
+            }
+          },
+          {
+            "type": "sticker",
+            "options": {
+              "position": {
+                "x": 0.5,
+                "y": 0.47275111550120924
+              },
+              "dimensions": {
+                "x": 0.11,
+                "y": 0.11
+              },
+              "rotation": 0,
+              "flipVertically": false,
+              "flipHorizontally": false,
+              "identifier": "imgly_sticker_shapes_badge_12",
+              "alpha": 1,
+              "tintColor": {
+                "rgba": [0, 0, 0, 1]
+              },
+              "tintMode": "solid"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "assetLibrary": {
+    "assets": {
+      "stickers": []
+    }
+  }
+}
