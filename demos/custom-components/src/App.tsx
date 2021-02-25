@@ -21,7 +21,7 @@ export const App: React.FC = () => {
   const config: ConfigurationProps = {
     license: '',
     image: './example.jpg',
-    assetBaseUrl: 'https://cdn.jsdelivr.net/npm/photoeditorsdk@latest/assets',
+    assetBaseUrl: 'https://unpkg.com/photoeditorsdk/assets',
     custom: {
       components: {
         advancedUIItemCard: ItemCard,
