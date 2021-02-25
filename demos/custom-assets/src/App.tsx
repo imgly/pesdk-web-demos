@@ -19,8 +19,8 @@ import {
 export const App: React.FC = () => {
   const config: ConfigurationProps = {
     license: '',
-    image: './example.jpg',
-    assetBaseUrl: 'https://unpkg.com/photoeditorsdk/assets',
+    image: `${window.location.origin}/example.jpg`,
+    assetBaseUrl: 'https://cdn.jsdelivr.net/npm/photoeditorsdk@latest/assets',
     sticker: {
       categories: [
         {
