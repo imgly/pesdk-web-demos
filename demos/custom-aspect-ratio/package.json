@@ -6,7 +6,7 @@
     "start": "vite"
   },
   "dependencies": {
-    "photoeditorsdk": "5.10.0",
+    "photoeditorsdk": "^5.11.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "styled-components": "4.4.1"
