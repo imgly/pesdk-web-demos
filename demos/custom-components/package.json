@@ -1,5 +1,6 @@
 {
   "name": "custom-components",
+  "description": "PE.SDK Custom Components",
   "version": "0.0.0",
   "scripts": {
     "start": "vite"

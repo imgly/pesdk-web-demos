@@ -1,5 +1,6 @@
 {
   "name": "custom-serialization",
+  "description": "PE.SDK Custom Serialization",
   "version": "0.0.0",
   "scripts": {
     "start": "vite"
