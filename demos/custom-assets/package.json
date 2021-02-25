@@ -1,5 +1,5 @@
 {
-  "name": "custom-assets",
+  "name": "@pesdk/custom-assets",
   "description": "PE.SDK Custom Assets",
   "version": "0.0.0",
   "scripts": {

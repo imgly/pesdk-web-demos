@@ -1,5 +1,5 @@
 {
-  "name": "custom-aspect-ratio",
+  "name": "@pesdk/custom-aspect-ratio",
   "description": "PE.SDK Custom Aspect Ratio",
   "version": "0.0.0",
   "scripts": {

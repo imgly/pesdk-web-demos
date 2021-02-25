@@ -1,5 +1,5 @@
 {
-  "name": "custom-components",
+  "name": "@pesdk/custom-components",
   "description": "PE.SDK Custom Components",
   "version": "0.0.0",
   "scripts": {

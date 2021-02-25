@@ -1,5 +1,5 @@
 {
-  "name": "custom-serialization",
+  "name": "@pesdk/custom-serialization",
   "description": "PE.SDK Custom Serialization",
   "version": "0.0.0",
   "scripts": {
