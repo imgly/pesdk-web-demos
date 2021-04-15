@@ -2020,10 +2020,10 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-esbuild@^0.8.52:
-  version "0.8.54"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.54.tgz#2f32ff80e95c69a0f25b799d76a27c05e2857cdf"
-  integrity sha512-DJH38OiTgXJxFb/EhHrCrY8eGmtdkTtWymHpN9IYN9AF+4jykT0dQArr7wzFejpVbaB0TMIq2+vfNRWr3LXpvw==
+esbuild@^0.9.3:
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.9.7.tgz#ea0d639cbe4b88ec25fbed4d6ff00c8d788ef70b"
+  integrity sha512-VtUf6aQ89VTmMLKrWHYG50uByMF4JQlVysb8dmg6cOgW8JnFCipmz7p+HNBl+RR3LLCuBxFGVauAe2wfnF9bLg==
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -3418,15 +3418,10 @@ path-type@^4.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-photoeditorsdk@5.11.0:
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.11.0.tgz#d61086c106126d8f58ab6a9cd55a4c92ec1be34c"
-  integrity sha512-OLvvCr1PB3SpJqX0AgIT5ngb1nzW0XpItjO71P6Y2bi9oqUaWjgz3bGfFHLjkYymy4CdVvoYc66FyDWyBEaqZA==
-
-photoeditorsdk@5.11.1:
-  version "5.11.1"
-  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.11.1.tgz#92184173f301d29c7359029994eb0fdbad802a3c"
-  integrity sha512-3hJCuZFQF1gfUGt7Kdwy3IwkHRqkD4lOB/xG5uzIcSa9Vu3DDjWm535ue+WF/SU6wrL+MsyGWlKhkOtixfLQJg==
+photoeditorsdk@5.11.4:
+  version "5.11.4"
+  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.11.4.tgz#2132561e9bbc598e0f6485e91bfa6c7171e64f76"
+  integrity sha512-N/Wco2eqCJOvpiI8DEMtpZdTmy8apnFJMJrfcmHkK+GSY74+nS7RsxU5kxNsq81lhuIRcgRiYZBbjJaf2jMibA==
 
 picomatch@^2.0.5, picomatch@^2.2.1, picomatch@^2.2.2:
   version "2.2.2"
@@ -3871,7 +3866,7 @@ randombytes@^2.1.0:
   dependencies:
     safe-buffer "^5.1.0"
 
-react-dom@17.0.1, react-dom@^17.0.0:
+react-dom@^17.0.0:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.1.tgz#1de2560474ec9f0e334285662ede52dbc5426fc6"
   integrity sha512-6eV150oJZ9U2t9svnsspTMrWNyHc6chX0KzDeAOXftRa8bNeOKTTfCJ7KorIwenkHd2xqVTBTCZd79yk/lx/Ug==
@@ -3885,7 +3880,7 @@ react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react@17.0.1, react@^17.0.0:
+react@^17.0.0:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react/-/react-17.0.1.tgz#6e0600416bd57574e3f86d92edba3d9008726127"
   integrity sha512-lG9c9UuMHdcAexXtigOZLX8exLWkW0Ku29qPRU8uhF2R9BN96dLCt0psvzPLlHc5OWkgymP3qwTRgbnw5BKx3w==
@@ -4620,12 +4615,12 @@ vendors@^1.0.0:
   resolved "https://registry.yarnpkg.com/vendors/-/vendors-1.0.4.tgz#e2b800a53e7a29b93506c3cf41100d16c4c4ad8e"
   integrity sha512-/juG65kTL4Cy2su4P8HjtkTxk6VmJDiOPBufWniqQ6wknac6jNiXS9vU+hO3wgusiyqWlzTbVHi0dyJqRONg3w==
 
-vite@^2.0.1:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.5.tgz#ac46857a3fa8686d077921e61bd48a986931df1d"
-  integrity sha512-QTgEDbq1WsTtr6j+++ewjhBFEk6c8v0xz4fb/OWJQKNYU8ZZtphOshwOqAlnarSstPBtWCBR0tsugXx6ajfoUg==
+vite@2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.1.5.tgz#4857da441c62f7982c83cbd5f42a00330f20c9c1"
+  integrity sha512-tYU5iaYeUgQYvK/CNNz3tiJ8vYqPWfCE9IQ7K0iuzYovWw7lzty7KRYGWwV3CQPh0NKxWjOczAqiJsCL0Xb+Og==
   dependencies:
-    esbuild "^0.8.52"
+    esbuild "^0.9.3"
     postcss "^8.2.1"
     resolve "^1.19.0"
     rollup "^2.38.5"
