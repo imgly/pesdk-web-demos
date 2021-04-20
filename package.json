@@ -25,7 +25,8 @@
     "typescript": "4.0.7"
   },
   "workspaces": [
-    "demos/*"
+    "demos/*",
+    "!demos/next-js"
   ],
   "author": {
     "name": "img.ly GmbH",
