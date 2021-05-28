@@ -4264,6 +4264,11 @@ photoeditorsdk@5.11.4:
   resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.11.4.tgz#2132561e9bbc598e0f6485e91bfa6c7171e64f76"
   integrity sha512-N/Wco2eqCJOvpiI8DEMtpZdTmy8apnFJMJrfcmHkK+GSY74+nS7RsxU5kxNsq81lhuIRcgRiYZBbjJaf2jMibA==
 
+photoeditorsdk@5.11.6:
+  version "5.11.6"
+  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.11.6.tgz#1a0a0ebb0f36b511244d6dbeadd6d57f96b900d7"
+  integrity sha512-/Im22VAiE0PomFmFY4DMylWlBSyZ1f5Y4d+POBn5aLiDuEpbiYG+sjXjlTWjk+mTWtbL+K5ieP335tcJyXQmLg==
+
 picomatch@^2.0.4, picomatch@^2.0.5, picomatch@^2.2.1, picomatch@^2.2.2:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.3.tgz#465547f359ccc206d3c48e46a1bcb89bf7ee619d"
